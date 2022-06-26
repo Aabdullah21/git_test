@@ -1,1 +1,2 @@
 Yo wassup!
+This is a test for typing commit message in visual studio code
